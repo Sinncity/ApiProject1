@@ -1,0 +1,22 @@
+.sectionFiber1 {
+  min-height: 100vh;
+}
+.sectionFiber2 {
+  background-color: bisque;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.sectionFiber3 {
+  background-color: rgb(222, 145, 51);
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.sectionFiber4 {
+  background-color: rgb(13, 41, 72);
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}

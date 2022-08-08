@@ -1,0 +1,31 @@
+.sectionHome1 {
+  min-height: 100vh;
+}
+
+.sectionHome2 {
+  background-color: aliceblue;
+  min-height: 100vh;
+
+  display: grid;
+  place-items: center center;
+  place-content: center center;
+}
+.sectionHome3 {
+  background-color: rgb(56, 52, 57);
+  color: aliceblue;
+  min-height: 100vh;
+  display: grid;
+  place-items: center center;
+  place-content: center center;
+}
+
+.sectionHome4 {
+  background-color: rgb(52, 67, 81);
+  color: aliceblue;
+  min-height: 100vh;
+  display: grid;
+  place-items: center center;
+  place-content: center center;
+}
+h1 {
+}

@@ -1,0 +1,51 @@
+.sectionGallery1 {
+  min-height: 100vh;
+}
+
+.sectionGallery2 {
+  background-color: rgb(131, 186, 234);
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.sectionGallery3 {
+  background-color: rgb(107, 74, 110);
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.sectionGallery4 {
+  background-color: rgb(81, 78, 81);
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  z-index: 1;
+  position: absolute;
+}
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: maroon;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  z-index: 3;
+  position: absolute;
+}
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: rgb(62, 104, 84);
+  z-index: 2;
+}

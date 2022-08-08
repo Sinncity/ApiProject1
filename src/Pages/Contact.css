@@ -1,0 +1,19 @@
+.sectionContact1 {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.sectionContact2 {
+  background-color: rgb(57, 136, 196);
+  min-height: 100vh;
+  width: 100%;
+}
+.sectionContact3 {
+  background-color: rgb(66, 205, 103);
+  min-height: 100vh;
+}
+
+.sectionContact4 {
+  background-color: rgb(179, 48, 175);
+  min-height: 100vh;
+}
